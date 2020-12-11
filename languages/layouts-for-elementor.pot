@@ -1,0 +1,155 @@
+# Copyright (C) 2018
+# This file is distributed under the same license as the  package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Layouts for Elementor\n"
+"Report-Msgid-Bugs-To: info@flickdevs.com\n"
+"POT-Creation-Date: 2019-05-06 12:16+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: OceanWP\n"
+"Language-Team: Giraphix Creative <lucas@giraphixcreative.com>\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _esc_attr__;esc_attr_x;esc_attr_e;esc_html__;"
+"esc_html_e;esc_html_x;__;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-layout-importer.php:61
+msgid "Invalid Template ID."
+msgstr ""
+
+#: includes/layouts.php:3 layouts-for-elementor.php:111
+#: layouts-for-elementor.php:120 layouts-for-elementor.php:138
+msgid "Layouts for Elementor"
+msgstr ""
+
+#: includes/layouts.php:7
+msgid "Elementor Template Kits:"
+msgstr ""
+
+#: includes/layouts.php:9
+msgid "Sync Now"
+msgstr ""
+
+#: includes/layouts.php:17
+msgid "Browse by Industry"
+msgstr ""
+
+#: includes/layouts.php:19
+msgid "All"
+msgstr ""
+
+#: includes/layouts.php:49
+msgid "PRO"
+msgstr ""
+
+#: includes/layouts.php:51
+msgid "FREE"
+msgstr ""
+
+#: includes/layouts.php:56
+msgid "Preview"
+msgstr ""
+
+#: includes/layouts.php:57
+msgid "Install"
+msgstr ""
+
+#: includes/layouts.php:68 includes/layouts.php:108
+msgid "Import this template via one click"
+msgstr ""
+
+#: includes/layouts.php:71 includes/layouts.php:111
+msgid "Import Template"
+msgstr ""
+
+#: includes/layouts.php:72 includes/layouts.php:112
+msgid "Edit Template"
+msgstr ""
+
+#: includes/layouts.php:75 includes/layouts.php:115
+msgid "OR"
+msgstr ""
+
+#: includes/layouts.php:78 includes/layouts.php:118
+msgid "Create a new page from this template"
+msgstr ""
+
+#: includes/layouts.php:80 includes/layouts.php:121
+msgid "Create New Page"
+msgstr ""
+
+#: includes/layouts.php:86
+msgid "Your template is successfully imported!"
+msgstr ""
+
+#: includes/layouts.php:87 includes/layouts.php:128
+msgid "Edit Page"
+msgstr ""
+
+#: includes/layouts.php:91
+msgid "Open Preview in New Tab"
+msgstr ""
+
+#: includes/layouts.php:126 layouts-for-elementor.php:154
+msgid "Your page is successfully imported!"
+msgstr ""
+
+#: layouts-for-elementor.php:111
+msgid ""
+" widgets not working because you need to activate the Elementor plugin."
+msgstr ""
+
+#: layouts-for-elementor.php:112
+msgid "Activate Elementor Now"
+msgstr ""
+
+#: layouts-for-elementor.php:120
+msgid " widgets not working because you need to install the Elemenor plugin"
+msgstr ""
+
+#: layouts-for-elementor.php:121
+msgid "Install Elementor Now"
+msgstr ""
+
+#: layouts-for-elementor.php:138
+msgid ""
+" widgets not working because you are using an old version of Elementor."
+msgstr ""
+
+#: layouts-for-elementor.php:139
+msgid "Update Elementor Now"
+msgstr ""
+
+#: layouts-for-elementor.php:153
+msgid "Importing..."
+msgstr ""
+
+#: layouts-for-elementor.php:155
+msgid "Please Enter Page Name."
+msgstr ""
+
+#: layouts-for-elementor.php:156
+msgid "Syncing..."
+msgstr ""
+
+#: layouts-for-elementor.php:157
+msgid "Templates library refreshed"
+msgstr ""
+
+#: layouts-for-elementor.php:158
+msgid "Error in library Syncing"
+msgstr ""
+
+#: layouts-for-elementor.php:176
+msgid "Layouts"
+msgstr ""
